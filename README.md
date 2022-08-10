@@ -1,0 +1,2 @@
+# contador
+Primeiro projeto Javascript.
